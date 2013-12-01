@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<johnsoft>
+	<timer id="Task1" startup="true">
+		<type>打开网址</type>
+		<date>2012-12-12</date>
+		<period>1</period>
+		<hour>16</hour>
+		<minite>30</minite>
+		<commit>http://www.baidu.com</commit>
+	</timer>
+</johnsoft>
