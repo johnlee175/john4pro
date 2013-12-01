@@ -1,4 +1,4 @@
-john4j
+john4pro
 ======
 
-a small java library about develop utility and tools, like swing, graph, paint, excel, jdbc and so on; some code and jar files are a bit repetitive, but just for my job.
+a small java project for test john4j, also just for my job.
